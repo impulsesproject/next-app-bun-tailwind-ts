@@ -9,6 +9,7 @@ Inside the container,
 ```bash
  # Running your app
  bun --bun run dev # Run with the Bun runtime
+ # or
  bun run dev # Run with Node.js
 
  # Building your app
