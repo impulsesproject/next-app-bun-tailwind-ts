@@ -1,6 +1,6 @@
 {
-  "name": "next-app-bun-ts-impulse",
-  "description": "Impulse (Docker dev container configuration and scaffolding) for an app-router based Next.js 14 application built with Bun and TypeScript support.",
+  "name": "next-app-tailwind-bun-ts-impulse",
+  "description": "Impulse (Docker dev container configuration and scaffolding) for an app-router based Next.js 14 application built with Bun, TailwindCSS, and TypeScript support.",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -31,13 +31,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/impulsesproject/next-app-bun-ts.git"
+    "url": "https://github.com/impulsesproject/next-app-tailwind-bun-ts.git"
   },
   "keywords": [],
   "author": "Baalateja Kataru (bkataru)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/impulsesproject/next-app-bun-ts/issues"
+    "url": "https://github.com/impulsesproject/next-app-tailwind-bun-ts/issues"
   },
-  "homepage": "https://github.com/impulsesproject/next-app-bun-ts"
+  "homepage": "https://github.com/impulsesproject/next-app-tailwind-bun-ts"
 }

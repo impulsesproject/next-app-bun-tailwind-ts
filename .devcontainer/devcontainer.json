@@ -1,5 +1,5 @@
 {
-  "name": "next-app-bun-ts-environment",
+  "name": "next-app-tailwind-bun-ts-environment",
   "dockerComposeFile": ["docker-compose.yml"],
   "service": "vscode",
   "runServices": ["vscode"],

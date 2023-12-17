@@ -1,7 +1,7 @@
 version: "3.8"
 services:
   vscode:
-    image: bkataru/impulses:next-app-bun-ts
+    image: bkataru/impulses:next-app-tailwind-bun-ts
     volumes:
       - ../:/workspace
       - ~/.ssh:/home/vscode/.ssh:ro
