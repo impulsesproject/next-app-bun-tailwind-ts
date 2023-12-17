@@ -1,6 +1,6 @@
 # Next.app.bun.ts
 
-Impulse (Docker dev container configuration and scaffolding) for an app-router based [Next.js](https://nextjs.org/) 14 application built with [Bun](https://bun.sh/) and TypeScript support.
+Impulse (Docker dev container configuration and scaffolding) for an app-router based [Next.js](https://nextjs.org/) 14 application built with [Bun](https://bun.sh/), [TailwindCSS](https://tailwindcss.com/), and TypeScript support.
 
 ## Usage
 
